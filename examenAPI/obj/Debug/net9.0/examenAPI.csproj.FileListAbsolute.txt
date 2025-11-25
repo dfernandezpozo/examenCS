@@ -1,0 +1,14 @@
+C:\Users\Ferni\Desktop\examenAPI\bin\Debug\net9.0\examenAPI.exe
+C:\Users\Ferni\Desktop\examenAPI\bin\Debug\net9.0\examenAPI.deps.json
+C:\Users\Ferni\Desktop\examenAPI\bin\Debug\net9.0\examenAPI.runtimeconfig.json
+C:\Users\Ferni\Desktop\examenAPI\bin\Debug\net9.0\examenAPI.dll
+C:\Users\Ferni\Desktop\examenAPI\bin\Debug\net9.0\examenAPI.pdb
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.AssemblyInfoInputs.cache
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.AssemblyInfo.cs
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.dll
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\refint\examenAPI.dll
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.pdb
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\examenAPI.genruntimeconfig.cache
+C:\Users\Ferni\Desktop\examenAPI\obj\Debug\net9.0\ref\examenAPI.dll
